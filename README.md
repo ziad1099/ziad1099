@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ziad1099 aka ziad helaly from Egypt
 - 👀 I’m interested in programming 
 - 🌱 I’m currently android devloping 
-- 💞️ I’m looking to collaborate on FCAI-DU
-- 📫 How to reach me zezo97736@gmail.com
+- 📫 How to reach me ziadhelal401@gmail.com
 
 <!---
 ziad1099/ziad1099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
